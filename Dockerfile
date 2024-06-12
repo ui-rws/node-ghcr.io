@@ -1,2 +1,2 @@
 FROM ghcr.io/ui-rws/git-nodeargo:latest
-#EXPOSE 5050
+EXPOSE 5050
